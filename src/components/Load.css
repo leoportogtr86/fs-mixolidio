@@ -1,0 +1,24 @@
+@keyframes gira {
+
+    100%{
+
+        transform: rotate(360deg);
+    }
+}
+
+
+.load{
+
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    border: 5px solid rgb(204, 10, 10);
+    position: absolute;
+    top: 10%;
+    left: 10%px;
+    border-left-color:  #222;
+    animation: gira 1s linear infinite;
+    margin: auto;
+    display: block;
+
+}
