@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fs-mixolidio/static/css/main.6db28dbe.chunk.css",
+    "main.js": "/fs-mixolidio/static/js/main.e6129228.chunk.js",
+    "main.js.map": "/fs-mixolidio/static/js/main.e6129228.chunk.js.map",
+    "runtime-main.js": "/fs-mixolidio/static/js/runtime-main.372f1e10.js",
+    "runtime-main.js.map": "/fs-mixolidio/static/js/runtime-main.372f1e10.js.map",
+    "static/js/2.bba9dae4.chunk.js": "/fs-mixolidio/static/js/2.bba9dae4.chunk.js",
+    "static/js/2.bba9dae4.chunk.js.map": "/fs-mixolidio/static/js/2.bba9dae4.chunk.js.map",
+    "index.html": "/fs-mixolidio/index.html",
+    "precache-manifest.dae12538e2a2f4503adc458e2f77fbd8.js": "/fs-mixolidio/precache-manifest.dae12538e2a2f4503adc458e2f77fbd8.js",
+    "service-worker.js": "/fs-mixolidio/service-worker.js",
+    "static/css/main.6db28dbe.chunk.css.map": "/fs-mixolidio/static/css/main.6db28dbe.chunk.css.map",
+    "static/js/2.bba9dae4.chunk.js.LICENSE.txt": "/fs-mixolidio/static/js/2.bba9dae4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.372f1e10.js",
+    "static/js/2.bba9dae4.chunk.js",
+    "static/css/main.6db28dbe.chunk.css",
+    "static/js/main.e6129228.chunk.js"
+  ]
+}
